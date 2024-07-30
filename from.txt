@@ -1,1 +1,0 @@
-https://github.com/guoyu-wang/ort_image_classification_android
